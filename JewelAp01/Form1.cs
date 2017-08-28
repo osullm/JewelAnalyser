@@ -252,8 +252,8 @@ namespace JewelApp01
             }
             processSpec.recordSpec(showName, bfwavelength, bfspectrum);
 
-            ESeriesClass series = new ESeriesClass();
-            int index = Chart_spec.AddSeries(series);
+           // ESeriesClass series = new ESeriesClass();
+            int index = Chart_spec.AddSeries(ESeriesClass.scFastLine );
             Color co = colorList.getNextColor();
             Chart_spec.Series(index).Color = (uint)ColorTranslator.ToWin32(co);
             Chart_spec.Series(index).asFastLine.LinePen.Width = boldLineWidth;
