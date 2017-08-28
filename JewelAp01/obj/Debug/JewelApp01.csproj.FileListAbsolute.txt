@@ -1,0 +1,51 @@
+E:\软件Programs\C#\JP-01\JewelAp01\JewelAp01\bin\Debug\JewelApp01.exe.config
+E:\软件Programs\C#\JP-01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.Properties.Resources.resources
+E:\软件Programs\C#\JP-01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.csproj.GenerateResource.Cache
+E:\软件Programs\C#\JP-01\JewelAp01\JewelAp01\bin\Debug\JewelApp01.exe
+E:\软件Programs\C#\JP-01\JewelAp01\JewelAp01\bin\Debug\JewelApp01.pdb
+E:\软件Programs\C#\JP-01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.exe
+E:\软件Programs\C#\JP-01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.pdb
+E:\软件Programs\C#\JP-01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.product.ClassManager.resources
+E:\软件Programs\C#\JP-01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.Product.SqlData.resources
+E:\软件Programs\C#\JP-01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.csprojResolveAssemblyReference.cache
+E:\软件Programs\C#\JP-01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.Form1.resources
+E:\软件Programs\C#\JP-01\JewelAp01\JewelAp01\bin\Debug\NETOmniDriver-NET40.dll
+E:\04 软件编程\C# 程序\U盘\JewelAp01\JewelAp01\JewelAp01\bin\Debug\JewelApp01.exe.config
+E:\04 软件编程\C# 程序\U盘\JewelAp01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.exe
+E:\04 软件编程\C# 程序\U盘\JewelAp01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.pdb
+E:\04 软件编程\C# 程序\U盘\JewelAp01\JewelAp01\JewelAp01\bin\Debug\JewelApp01.exe
+E:\04 软件编程\C# 程序\U盘\JewelAp01\JewelAp01\JewelAp01\bin\Debug\JewelApp01.pdb
+E:\04 软件编程\C# 程序\U盘\JewelAp01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.csprojResolveAssemblyReference.cache
+E:\04 软件编程\C# 程序\U盘\JewelAp01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.Form1.resources
+E:\04 软件编程\C# 程序\U盘\JewelAp01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.product.ClassManager.resources
+E:\04 软件编程\C# 程序\U盘\JewelAp01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.Product.SqlData.resources
+E:\04 软件编程\C# 程序\U盘\JewelAp01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.Properties.Resources.resources
+E:\04 软件编程\C# 程序\U盘\JewelAp01\JewelAp01\JewelAp01\obj\Debug\JewelApp01.csproj.GenerateResource.Cache
+E:\软件Programs\C#\JewelAp02\JewelAp01\JewelAp01\bin\Debug\JewelApp01.exe.config
+E:\软件Programs\C#\JewelAp02\JewelAp01\JewelAp01\obj\Debug\JewelApp01.exe
+E:\软件Programs\C#\JewelAp02\JewelAp01\JewelAp01\obj\Debug\JewelApp01.pdb
+E:\软件Programs\C#\JewelAp02\JewelAp01\JewelAp01\bin\Debug\JewelApp01.exe
+E:\软件Programs\C#\JewelAp02\JewelAp01\JewelAp01\bin\Debug\JewelApp01.pdb
+E:\软件Programs\C#\JewelAp02\JewelAp01\JewelAp01\obj\Debug\JewelApp01.csprojResolveAssemblyReference.cache
+E:\软件Programs\C#\JewelAp02\JewelAp01\JewelAp01\obj\Debug\JewelApp01.Form1.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\JewelAp01\obj\Debug\JewelApp01.product.ClassManager.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\JewelAp01\obj\Debug\JewelApp01.Product.SqlData.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\JewelAp01\obj\Debug\JewelApp01.Properties.Resources.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\JewelAp01\obj\Debug\JewelApp01.csproj.GenerateResource.Cache
+E:\软件Programs\C#\JewelAp02\JewelAp01\bin\Debug\JewelApp01.exe.config
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.exe
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.pdb
+E:\软件Programs\C#\JewelAp02\JewelAp01\bin\Debug\JewelApp01.exe
+E:\软件Programs\C#\JewelAp02\JewelAp01\bin\Debug\JewelApp01.pdb
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.csprojResolveAssemblyReference.cache
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Form1.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.product.ClassManager.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Product.SqlData.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Properties.Resources.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.csproj.GenerateResource.Cache
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Product.SettingForm.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Control.FittingControl.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Product.Form_updateSql.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Product.Form_findPeakSetting.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Product.Form_factorySetting.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.product.PeopleManager.resources

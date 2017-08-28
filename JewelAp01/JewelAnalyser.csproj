@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{942131F3-13C6-4C3E-A2EE-5DFF97DAD0CA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JewelApp01</RootNamespace>
+    <AssemblyName>JewelAnalyser</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>JewelIco.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NETOmniDriver-NET40, Version=2.1.0.0, Culture=neutral, PublicKeyToken=5ceb6b3940bb24a4, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Ocean Optics\OmniDriverSPAM\OOI_HOME\NETOmniDriver-NET40.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.99.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Control\AddJewDataControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\AddJewDataControl.Designer.cs">
+      <DependentUpon>AddJewDataControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\colorBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\colorBar.Designer.cs">
+      <DependentUpon>colorBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\FittingControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\FittingControl.Designer.cs">
+      <DependentUpon>FittingControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\JewDataClass.cs" />
+    <Compile Include="Model\propertysetting.cs" />
+    <Compile Include="Model\SpectrumStruct.cs" />
+    <Compile Include="Processer\ColorListClass.cs" />
+    <Compile Include="Processer\EncryptionHelper.cs" />
+    <Compile Include="Processer\ProcessArray.cs" />
+    <Compile Include="Processer\ProcessFile.cs" />
+    <Compile Include="Processer\processFitting.cs" />
+    <Compile Include="Processer\ProcessSpec.cs" />
+    <Compile Include="Processer\SqliteHelper.cs" />
+    <Compile Include="Product\ClassManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\ClassManager.Designer.cs">
+      <DependentUpon>ClassManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product\Form_factorySetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\Form_factorySetting.Designer.cs">
+      <DependentUpon>Form_factorySetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product\Form_findPeakSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\Form_findPeakSetting.Designer.cs">
+      <DependentUpon>Form_findPeakSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product\Form_updateSql.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\Form_updateSql.Designer.cs">
+      <DependentUpon>Form_updateSql.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product\LineMover.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\LineMover.Designer.cs">
+      <DependentUpon>LineMover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product\PeopleManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\PeopleManager.Designer.cs">
+      <DependentUpon>PeopleManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product\SettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\SettingForm.Designer.cs">
+      <DependentUpon>SettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product\SqlData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product\SqlData.Designer.cs">
+      <DependentUpon>SqlData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Control\AddJewDataControl.resx">
+      <DependentUpon>AddJewDataControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\colorBar.resx">
+      <DependentUpon>colorBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\FittingControl.resx">
+      <DependentUpon>FittingControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\ClassManager.resx">
+      <DependentUpon>ClassManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\Form_factorySetting.resx">
+      <DependentUpon>Form_factorySetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\Form_findPeakSetting.resx">
+      <DependentUpon>Form_findPeakSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\Form_updateSql.resx">
+      <DependentUpon>Form_updateSql.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\LineMover.resx">
+      <DependentUpon>LineMover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\PeopleManager.resx">
+      <DependentUpon>PeopleManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\SettingForm.resx">
+      <DependentUpon>SettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product\SqlData.resx">
+      <DependentUpon>SqlData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="JewelIco.ico" />
+    <None Include="Resources\continuousGettingImage.png" />
+    <None Include="Resources\darkImage.png" />
+    <None Include="Resources\maximumImage.png" />
+    <None Include="Resources\minimumImage.png" />
+    <None Include="Resources\onceGettingImage.png" />
+    <None Include="Resources\openImage.png" />
+    <None Include="Resources\recordImage.png" />
+    <None Include="Resources\referenceImage.png" />
+    <None Include="Resources\reflectanceImage.png" />
+    <None Include="Resources\removeImage.png" />
+    <None Include="Resources\saveImage.png" />
+    <None Include="Resources\spectraImage.png" />
+    <None Include="Resources\stopGettingImage.png" />
+    <None Include="Resources\subDarkImage.png" />
+    <None Include="Resources\maximum2Image.png" />
+    <Content Include="Resource\20170328081854828_easyicon_net_32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxTeeChart">
+      <Guid>{EB7A6012-79A9-4A1A-91AF-F2A92FCA3406}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="TeeChart">
+      <Guid>{EB7A6012-79A9-4A1A-91AF-F2A92FCA3406}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

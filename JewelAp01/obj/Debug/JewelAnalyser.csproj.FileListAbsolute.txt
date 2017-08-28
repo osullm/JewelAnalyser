@@ -1,0 +1,67 @@
+E:\软件Programs\C#\JewelAp02\JewelAp01\bin\Debug\JewelAnalyser.exe.config
+E:\软件Programs\C#\JewelAp02\JewelAp01\bin\Debug\JewelAnalyser.exe
+E:\软件Programs\C#\JewelAp02\JewelAp01\bin\Debug\JewelAnalyser.pdb
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Control.FittingControl.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Form1.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.product.ClassManager.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Product.Form_factorySetting.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Product.Form_findPeakSetting.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Product.Form_updateSql.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.product.PeopleManager.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Product.SettingForm.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Product.SqlData.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Properties.Resources.resources
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelAnalyser.csproj.GenerateResource.Cache
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelAnalyser.exe
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelAnalyser.pdb
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelAnalyser.csprojResolveAssemblyReference.cache
+E:\软件Programs\C#\JewelAp02\JewelAp01\obj\Debug\JewelApp01.Control.colorBar.resources
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\bin\Debug\JewelAnalyser.exe.config
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\obj\Debug\JewelAnalyser.exe
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\obj\Debug\JewelAnalyser.pdb
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\bin\Debug\JewelAnalyser.exe
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\bin\Debug\JewelAnalyser.pdb
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\obj\Debug\JewelAnalyser.csprojResolveAssemblyReference.cache
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\obj\Debug\JewelApp01.Control.colorBar.resources
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\obj\Debug\JewelApp01.Control.FittingControl.resources
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\obj\Debug\JewelApp01.Form1.resources
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\obj\Debug\JewelApp01.product.ClassManager.resources
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\obj\Debug\JewelApp01.Product.Form_factorySetting.resources
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\obj\Debug\JewelApp01.Product.Form_findPeakSetting.resources
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\obj\Debug\JewelApp01.Product.Form_updateSql.resources
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\obj\Debug\JewelApp01.product.PeopleManager.resources
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\obj\Debug\JewelApp01.Product.SettingForm.resources
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\obj\Debug\JewelApp01.Product.SqlData.resources
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\obj\Debug\JewelApp01.Properties.Resources.resources
+E:\软件Programs\C#\01 JewelAp02\JewelAp01\obj\Debug\JewelAnalyser.csproj.GenerateResource.Cache
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\bin\Debug\JewelAnalyser.exe.config
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelAnalyser.exe
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelAnalyser.pdb
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\bin\Debug\JewelAnalyser.exe
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\bin\Debug\JewelAnalyser.pdb
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelAnalyser.csprojResolveAssemblyReference.cache
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelApp01.Control.colorBar.resources
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelApp01.Control.FittingControl.resources
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelApp01.Form1.resources
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelApp01.product.ClassManager.resources
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelApp01.Product.Form_factorySetting.resources
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelApp01.Product.Form_findPeakSetting.resources
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelApp01.Product.Form_updateSql.resources
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelApp01.product.PeopleManager.resources
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelApp01.Product.SettingForm.resources
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelApp01.Product.SqlData.resources
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelApp01.Properties.Resources.resources
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelAnalyser.csproj.GenerateResource.Cache
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelAnalyser.csproj.ResolveComReference.cache
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelApp01.Control.AddJewDataControl.resources
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\bin\Debug\Interop.TeeChart.dll
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\bin\Debug\AxInterop.TeeChart.dll
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\Interop.TeeChart.dll
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\AxInterop.TeeChart.dll
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAp01\obj\Debug\JewelApp01.Product.LineMover.resources
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAnalyser\JewelAp01\bin\Debug\JewelAnalyser.exe.config
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAnalyser\JewelAp01\obj\Debug\Interop.TeeChart.dll
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAnalyser\JewelAp01\obj\Debug\AxInterop.TeeChart.dll
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAnalyser\JewelAp01\obj\Debug\JewelAnalyser.csproj.ResolveComReference.cache
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAnalyser\JewelAp01\obj\Debug\JewelAnalyser.exe
+E:\04 软件编程\C# 程序\2016-06-22 珠宝检测软件\JewelAnalyser\JewelAp01\obj\Debug\JewelAnalyser.pdb
